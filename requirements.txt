@@ -1,1 +1,11 @@
 streamlit
+opencv-python-headless
+face_recognition
+numpy
+Pillow
+qrcode
+pandas
+av
+streamlit-webrtc
+cmake
+tornado
